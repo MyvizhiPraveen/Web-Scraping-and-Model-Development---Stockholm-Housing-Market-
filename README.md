@@ -10,5 +10,5 @@ I performed Data Cleaning (Handling missing values, data inconsistency, data tra
  🎯Top 10 Areas (based on Property Type Count) and the relationship between living area vs Sold Price 
 
 The Polynomial Regression model has been developed based on the accuracy score of the model 
- 🎯Model R2 Score: 97% of the variance in the sold price can be explained by the model 
+ 🎯Model R2 Score: 98.6% of the variance in the sold price can be explained by the model 
 
